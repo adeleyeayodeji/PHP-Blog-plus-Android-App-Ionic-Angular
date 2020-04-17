@@ -1,10 +1,10 @@
 
-# Simple-PHP-Blog-Script
+# PHP-Blog-plus-Android-App-Ionic-Angular 
 
-=== Simple-PHP-Blog-Script ===
+=== PHP-Blog-plus-Android-App-Ionic-Angular  ===
 
 Contributors: Adeleye Ayodeji
-Tags: Blog
+Tags: PHP-Blog-plus-Android-App-Ionic-Angular 
 Author URI: https://adeleyeayodeji.com/
 Author: Adeleye Ayodeji
 Requires PHP: 5.6
@@ -12,7 +12,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple-PHP-Blog-Script
+PHP-Blog-plus-Android-App-Ionic-Angular 
 
 == Description ==
 
@@ -20,12 +20,15 @@ Simple-PHP-Blog-Script
 
 == Installation ==
 
-1. Upload `Simple-PHP-Blog-Script` directory to the `/public html/` directory
+1. Upload `PHP-Blog-plus-Android-App-Ionic-Angular ` directory to the `/public html/` directory
 2. Create a database named `blog` 
 3. Import the tables located at `include\blog.sql` directory.
 3. Run the script from the front end and everything works.
 4. Admin url: `admin/index.php`
-4. Admin details: Username: `admin` Password: `admin`
+5. Admin details: Username: `admin` Password: `admin`
+
+== Application Setup == 
+
 
 == Frequently Asked Questions ==
 
