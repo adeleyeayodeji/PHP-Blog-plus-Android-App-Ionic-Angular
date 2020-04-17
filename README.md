@@ -42,11 +42,14 @@ PHP-Blog-plus-Android-App-Ionic-Angular
 
 #URL to be changed for API Response
 
-` this.imageUrl = "https://script.adeleyeayodeji.com/image/"
-  this.sociallink = "https://script.adeleyeayodeji.com/"
-  this.url= "https://script.adeleyeayodeji.com/api/"
-  this.apiKey ="c5c19e98afe0827d801f158abcde8d63"
-`
+  this.imageUrl = `https://script.adeleyeayodeji.com/image/`
+  
+  this.sociallink = `https://script.adeleyeayodeji.com/`
+  
+  this.url= `https://script.adeleyeayodeji.com/api/`
+  
+  this.apiKey =`c5c19e98afe0827d801f158abcde8d63`
+
 
 == Frequently Asked Questions ==
 
